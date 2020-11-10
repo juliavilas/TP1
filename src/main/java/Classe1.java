@@ -15,3 +15,4 @@ public class Classe1 {
 }
 // Blablabla
 // Commentaire
+// Conflit ?
